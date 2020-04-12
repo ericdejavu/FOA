@@ -72,7 +72,7 @@
 
 1. 模板方法
 2. 策略模式
-3. 观察者模式
+3. [观察者模式](https://github.com/ericdejavu/GOF/blob/master/src/observer/readme.md)
 4. 装饰模式
 5. 桥模式
 6. 工厂模式
